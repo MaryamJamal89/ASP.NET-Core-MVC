@@ -1,0 +1,56 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Create";
+}
+  
+<a asp-action="Index">View All Students</a>
+
+<h2>Create</h2>
+<form method="post">
+@*    <p>
+        <label asp-for="Id">Your Id:</label>
+        <input asp-for="Id" />
+        <span asp-validation-for="Id"></span>
+    </p>*@
+    <p>
+        <label asp-for="Name">Your Name:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </p>
+    <p>
+        <label asp-for="Age">Your Age:</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age"></span>
+    </p>
+    <p>
+        <label asp-for="Email">Your Email:</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+        @if(ViewBag.EmailError != null){
+            <span>@ViewBag.EmailError</span>            
+        }
+    </p>
+    <p>
+        <label asp-for="Password">Your Password:</label>
+        <input asp-for="Password" />
+        <span asp-validation-for="Password"></span>
+    </p>
+    <p>
+        <label asp-for="ConfirmPassword">Confirm Password:</label>
+        <input asp-for="ConfirmPassword" />
+        <span asp-validation-for="ConfirmPassword"></span>
+    </p>
+    <p>
+        <label asp-for="DepartmentId">Your Department:</label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.depts">
+        </select>
+        <span asp-validation-for="DepartmentId"></span>
+    </p>
+    <p><button type="submit" class="btn btn-success">Submit</button></p>
+</form>
+
+@section Scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

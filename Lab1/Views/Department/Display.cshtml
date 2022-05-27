@@ -1,0 +1,30 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Display";
+}
+<a asp-action="Index">View All Departments</a>
+<h2>Display @Model.Name</h2>
+<form method="get">
+    <p>
+        <label asp-for="Id">Your Id:</label>
+        <label asp-for="Id">@Model.Id</label>
+    </p>
+    <p>
+        <label asp-for="Name">Your Name:</label>
+        <label asp-for="Name">@Model.Name</label>
+    </p>
+    <p>
+        <label asp-for="Location">Your Location:</label>
+        <label asp-for="Location">@Model.Location</label>
+    </p>
+    <p>
+        <label asp-for="Courses">Your Courses:</label>
+        <ol>
+        @foreach (Course d in @Model.Courses)
+        {
+            <li>@d.Name</li>
+        }
+        </ol>
+    </p>
+    <a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-primary">Update</a>          
+</form>

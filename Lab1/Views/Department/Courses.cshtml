@@ -1,0 +1,32 @@
+﻿@model CourseDepartment
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a asp-action="Index">View All Departments</a>
+<h2>Here is the list of Courses</h2>
+
+<form asp-action="updateDept" asp-controller="Department">
+    <input type="hidden" value="@Model.Department.Id" name="deptId"/>
+    <h4 class="m-2 alert alert-primary">Courses In Departments</h4>
+    <select name="InCourse" class="form-control form-control-sm m-2" multiple>
+        @foreach (Course s in Model.CourseInDpt)
+        {
+            <option value="@s.Id">
+                @s.Name
+            </option>
+        }
+    </select>
+
+    <h4 class="m-2 alert alert-info"> Courses Not In Departments</h4>
+    <select name="NotInCourse" class="form-control form-control-sm m-2" multiple>
+        @foreach (Course s in Model.CourseNotInDpt)
+        {
+            <option value="@s.Id">
+                @s.Name
+            </option>
+        }
+    </select>
+
+    <input class="m-2 btn btn-outline-info" type="submit" value="Change" />
+</form>

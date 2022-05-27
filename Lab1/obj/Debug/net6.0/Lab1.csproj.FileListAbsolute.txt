@@ -1,0 +1,87 @@
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\appsettings.Development.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\appsettings.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.staticwebassets.runtime.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\scopedcss\bundle\Lab1.styles.css
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\scopedcss\projectbundle\Lab1.bundle.scp.css
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\appsettings.Development.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\appsettings.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.staticwebassets.runtime.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\scopedcss\bundle\Lab1.styles.css
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\scopedcss\projectbundle\Lab1.bundle.scp.css
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Humanizer.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\31- ASP.NET Core MVC\Day01\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete

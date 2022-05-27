@@ -1,0 +1,39 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Update";
+}
+<a asp-action="Index">View All Students</a>
+<h2>Update</h2>
+<form method="post">
+    <input asp-for="Id" disabled type="hidden"/>
+    <p>
+        <label asp-for="Name">Your Name:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </p>
+    <p>
+        <label asp-for="Age">Your Age:</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age"></span>
+    </p>
+    <p>
+        <label asp-for="Email">Your Email:</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </p>
+    <input asp-for="Password" Value="@Model.Password" type="hidden"/>
+    <input asp-for="ConfirmPassword" Value="@Model.Password" type="hidden"/>
+    <p>
+        <label asp-for="DepartmentId">Your Department:</label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.depts">
+        </select>
+    </p>
+    </p>
+    <p><button type="submit" class="btn btn-success">Submit</button></p>
+</form>
+
+@section Scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

@@ -1,0 +1,29 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Display";
+}
+<a asp-action="Index">View All Students</a>
+<h2>Display @Model.Name</h2>
+<form method="get">
+   @*<p>
+        <label asp-for="Id">Your Id:</label>
+        <label asp-for="Id">@Model.Id</label>
+    </p>*@
+    <p>
+        <label asp-for="Name">Your Name:</label>
+        <label asp-for="Name">@Model.Name</label>
+    </p>
+    <p>
+        <label asp-for="Age">Your Age:</label>
+        <label asp-for="Age">@Model.Age</label>
+    </p>
+    <p>
+        <label asp-for="Email">Your Email:</label>        
+        <label asp-for="Email">@Model.Email</label>        
+    </p>
+    <p>
+        <label asp-for="Department">Your Department:</label>        
+        <label asp-for="Department">@Model.Department</label>        
+    </p>
+    <a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-primary">Update</a>          
+</form>

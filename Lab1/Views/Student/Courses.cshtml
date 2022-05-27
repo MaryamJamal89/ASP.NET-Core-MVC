@@ -1,0 +1,37 @@
+﻿@model IEnumerable<StudentCourse>
+@{
+	ViewData["Title"] = "Index";
+}
+
+<a asp-action="Index">Back</a>
+<h2>Here is the list of Student Courses</h2>
+
+	<form method="post">
+		<p>
+			<label >Your Id:</label>
+			<input disabled value="@Model.First().StdId" name="id"/>
+		</p>
+    @foreach (StudentCourse s in Model)
+		{
+			<p>
+				<label>@s.course.Name</label>
+				@*@if (@s.Degree == null || @s.Degree == 0)
+				{*@
+					<input type="hidden" name="courseId" value="@s.CourseId"/>
+					<input asp-for="@s.Degree" type="number" name="degree" required="false"/>
+					<span asp-validation-for="@s.Degree"></span>
+				@*}
+				else
+				{
+					<label>@s.Degree</label>
+				}*@
+			</p>
+		}
+    <p><button type="submit" class="btn btn-success">Submit</button></p>
+</form>
+
+@section Scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
